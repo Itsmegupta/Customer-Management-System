@@ -287,7 +287,7 @@ const Signup = ({ setUserImage }) => {
           CREATE USER
         </Button>
         <div className="sign-up mt-3 text-center">
-          Have an account? <Link to="/login">Create One</Link>
+          Have an account? <Link to="/login">Login Here</Link>
         </div>
       </form>
       <ToastContainer />
