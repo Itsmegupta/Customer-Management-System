@@ -1,10 +1,11 @@
 # CMS - Customer Management System & Chat Application 
 CMS is Customer Management application build with the power of MERN Stack.
 
-![login page](./images/Screenshot from 2024-09-26 13-41-58.png
-)
+![home page](./images/home.png)
+![chat page](./images/chat.png)
 
-![home page](./images/Screenshot from 2024-09-26 13-46-45.png)
+
+
 
 ## Installation Guide
 
