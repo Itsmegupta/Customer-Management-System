@@ -1,4 +1,4 @@
-# CMS - Customer Management System & Chat Application 
+# CMS - Customer Management System Application (MERN)
 CMS is Customer Management application build with the power of MERN Stack.
 
 ## Live Demo
