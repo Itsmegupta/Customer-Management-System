@@ -6,6 +6,10 @@ You can view the live version of the application at the following link:
 
 - [Live Demo](https://crud-react-5npz.onrender.com/)
 
+For a detailed report, you can access the document here:
+
+- [Project Report](https://docs.google.com/document/d/1rUK64OJBZFFG812lX9UB9fb7sucScTonmMGEUMSkpfw/edit?usp=sharing)
+
 
 ## ScreenShot
 
