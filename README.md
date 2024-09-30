@@ -29,7 +29,7 @@ Both should be installed and make sure mongodb is running.
 ### Installation
 
 ```shell
-git clone https://github.com/GleamSujeet001/CMS-react-nodejs.git
+git clone https://github.com/Itsmegupta/Customer-Management-System.git
 cd CMS-react-nodejs
 ```
 
